@@ -1,4 +1,4 @@
-##Looping : Equilateral triangle pattern of star.
+## Looping : Equilateral triangle pattern of star.
 
 ## 🎯 Aim
 To write a Python program that prints an equilateral triangle pattern of stars (*), where the number of rows is provided as input by the user.
