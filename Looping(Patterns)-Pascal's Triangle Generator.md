@@ -2,12 +2,11 @@
 
 This project demonstrates a simple Python program to generate **Pascal’s Triangle**, where the number of rows is provided by the user.
 
----
+
 
 ## 🎯 Aim
 
 To write a Python program that prints an inverted pyramid pattern using the same digit, based on user input.
----
 
 ## 🧠 Algorithm
 1.Read an integer input n from the user.
